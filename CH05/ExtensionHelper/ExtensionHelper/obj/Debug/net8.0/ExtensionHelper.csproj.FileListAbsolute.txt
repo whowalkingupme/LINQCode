@@ -1,0 +1,15 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\bin\Debug\net8.0\ExtensionHelper.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\bin\Debug\net8.0\ExtensionHelper.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\bin\Debug\net8.0\ExtensionHelper.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\bin\Debug\net8.0\ExtensionHelper.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\bin\Debug\net8.0\ExtensionHelper.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.sourcelink.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\refint\ExtensionHelper.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ExtensionHelper.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH05\ExtensionHelper\ExtensionHelper\obj\Debug\net8.0\ref\ExtensionHelper.dll
