@@ -1,0 +1,14 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\bin\Debug\net8.0\MethodSyntax.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\bin\Debug\net8.0\MethodSyntax.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\bin\Debug\net8.0\MethodSyntax.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\bin\Debug\net8.0\MethodSyntax.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\bin\Debug\net8.0\MethodSyntax.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\refint\MethodSyntax.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\MethodSyntax.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\MethodSyntax\MethodSyntax\obj\Debug\net8.0\ref\MethodSyntax.dll

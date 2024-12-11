@@ -1,0 +1,14 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\bin\Debug\net8.0\QuerySyntax.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\bin\Debug\net8.0\QuerySyntax.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\bin\Debug\net8.0\QuerySyntax.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\bin\Debug\net8.0\QuerySyntax.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\bin\Debug\net8.0\QuerySyntax.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\refint\QuerySyntax.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\QuerySyntax.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH02\QuerySyntax\QuerySyntax\obj\Debug\net8.0\ref\QuerySyntax.dll

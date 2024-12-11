@@ -1,0 +1,14 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\bin\Debug\net8.0\IQueryable.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\bin\Debug\net8.0\IQueryable.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\bin\Debug\net8.0\IQueryable.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\bin\Debug\net8.0\IQueryable.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\bin\Debug\net8.0\IQueryable.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\refint\IQueryable.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\IQueryable.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH03\IQueryable\IQueryable\obj\Debug\net8.0\ref\IQueryable.dll
