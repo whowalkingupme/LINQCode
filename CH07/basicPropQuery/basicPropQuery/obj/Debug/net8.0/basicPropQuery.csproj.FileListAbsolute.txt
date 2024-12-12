@@ -1,0 +1,15 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\bin\Debug\net8.0\basicPropQuery.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\bin\Debug\net8.0\basicPropQuery.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\bin\Debug\net8.0\basicPropQuery.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\bin\Debug\net8.0\basicPropQuery.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\bin\Debug\net8.0\basicPropQuery.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.sourcelink.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\refint\basicPropQuery.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\basicPropQuery.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\basicPropQuery\basicPropQuery\obj\Debug\net8.0\ref\basicPropQuery.dll

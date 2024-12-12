@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96E9E3-9BE1-4DFB-AC94-B129C9218E45}|SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo.csproj|c:\\users\\mengzhe\\desktop\\project\\linqcode\\ch07\\selectqueryemployeebasicinfo\\selectqueryemployeebasicinfo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96E9E3-9BE1-4DFB-AC94-B129C9218E45}|SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo.csproj|solutionrelative:selectqueryemployeebasicinfo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96E9E3-9BE1-4DFB-AC94-B129C9218E45}|SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo.csproj|c:\\users\\mengzhe\\desktop\\project\\linqcode\\ch07\\selectqueryemployeebasicinfo\\selectqueryemployeebasicinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96E9E3-9BE1-4DFB-AC94-B129C9218E45}|SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo.csproj|solutionrelative:selectqueryemployeebasicinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA96E9E3-9BE1-4DFB-AC94-B129C9218E45}|SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo.csproj|c:\\users\\mengzhe\\desktop\\project\\linqcode\\ch07\\selectqueryemployeebasicinfo\\selectqueryemployeebasicinfo\\employeebasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA96E9E3-9BE1-4DFB-AC94-B129C9218E45}|SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo.csproj|solutionrelative:selectqueryemployeebasicinfo\\employeebasicinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeBasicInfo.cs",
+              "DocumentMoniker": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo\\EmployeeBasicInfo.cs",
+              "RelativeDocumentMoniker": "SelectQueryEmployeeBasicInfo\\EmployeeBasicInfo.cs",
+              "ToolTip": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo\\EmployeeBasicInfo.cs",
+              "RelativeToolTip": "SelectQueryEmployeeBasicInfo\\EmployeeBasicInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:54:39.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo\\Employee.cs",
+              "RelativeDocumentMoniker": "SelectQueryEmployeeBasicInfo\\Employee.cs",
+              "ToolTip": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo\\Employee.cs",
+              "RelativeToolTip": "SelectQueryEmployeeBasicInfo\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:52:05.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo\\Program.cs",
+              "RelativeDocumentMoniker": "SelectQueryEmployeeBasicInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\mengzhe\\Desktop\\Project\\LINQCode\\CH07\\SelectQueryEmployeeBasicInfo\\SelectQueryEmployeeBasicInfo\\Program.cs",
+              "RelativeToolTip": "SelectQueryEmployeeBasicInfo\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAwwBoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:48:20.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

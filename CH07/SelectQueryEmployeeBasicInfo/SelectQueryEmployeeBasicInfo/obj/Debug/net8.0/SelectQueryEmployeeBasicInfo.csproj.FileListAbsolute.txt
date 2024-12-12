@@ -1,0 +1,15 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\bin\Debug\net8.0\SelectQueryEmployeeBasicInfo.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\bin\Debug\net8.0\SelectQueryEmployeeBasicInfo.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\bin\Debug\net8.0\SelectQueryEmployeeBasicInfo.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\bin\Debug\net8.0\SelectQueryEmployeeBasicInfo.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\bin\Debug\net8.0\SelectQueryEmployeeBasicInfo.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.sourcelink.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\refint\SelectQueryEmployeeBasicInfo.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\SelectQueryEmployeeBasicInfo.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQueryEmployeeBasicInfo\SelectQueryEmployeeBasicInfo\obj\Debug\net8.0\ref\SelectQueryEmployeeBasicInfo.dll

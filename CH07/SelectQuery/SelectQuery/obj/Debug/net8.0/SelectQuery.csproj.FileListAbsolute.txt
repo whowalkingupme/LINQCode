@@ -1,0 +1,15 @@
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\bin\Debug\net8.0\SelectQuery.exe
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\bin\Debug\net8.0\SelectQuery.deps.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\bin\Debug\net8.0\SelectQuery.runtimeconfig.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\bin\Debug\net8.0\SelectQuery.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\bin\Debug\net8.0\SelectQuery.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.AssemblyInfoInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.AssemblyInfo.cs
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.csproj.CoreCompileInputs.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.sourcelink.json
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\refint\SelectQuery.dll
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.pdb
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\SelectQuery.genruntimeconfig.cache
+C:\Users\mengzhe\Desktop\Project\LINQCode\CH07\SelectQuery\SelectQuery\obj\Debug\net8.0\ref\SelectQuery.dll
